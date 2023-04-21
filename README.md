@@ -1,3 +1,3 @@
 # Walmart-Case-Study-
 
-Confidence Interval, Central Limit Theorem
+Confidence Intervals , Central Limit Theorem
