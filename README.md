@@ -36,3 +36,17 @@ Marital_Status:	Marital Status
 ProductCategory:	Product Category (Masked)
 
 Purchase:	Purchase Amount
+
+**Recommendations**
+
+Product 1, 5 and 8 are most demanded so enough quantity and good quality should be kept in stock of these products.
+
+City B have more sales so, stock should be maintained there.
+
+Targetting people who are living in city for atleast a year for shopping by attractive offers.
+
+Men spend more money than women, So company should focus on retaining the male customers and getting more female customers. Giving additional offers for women can increase their spending on Black Friday.
+
+Customers in the age 51-55 spend more money than the others, So company should focus on giving high customer care to this age group to continue getting the sales.
+
+Highest frequency of purchase is between 5k and 10k, company can focus more on these mid range products to increase the sales.
